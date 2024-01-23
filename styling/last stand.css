@@ -1,0 +1,21 @@
+form{
+    width: 50%;
+    height: 500px;
+    background-color: rgba(182, 22, 87, 0.51);
+    margin-left: 250px;
+    margin-top: 30px;
+    padding-left: 100px;
+    padding-top: 28px;
+    padding-bottom: 1px;
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
+button{
+    width: 70%;
+    height: 30px;
+}
+body{
+    background-color: rgba(122, 1, 94, 0.95);
+}

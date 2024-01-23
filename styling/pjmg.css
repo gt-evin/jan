@@ -1,0 +1,67 @@
+caption{
+    font-weight: bold;
+    text-align: center;
+}
+form{
+    background-color: aqua;
+    width:  50%;
+    height: 600px;
+    padding-left: 10px;
+    margin-left: 320PX;
+    padding-top: 30px;
+}
+input[type=text],[type=date]{
+    margin-left:50px;
+    width: 250px;
+    height: 30px;
+    border-radius: 6px;
+
+}
+input[type=radio]{
+    margin-left: 5px;
+    padding-left: 2px;
+}
+select{
+    width: 260px;
+    height: 30px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+p{
+    padding-left: 20px
+}
+.g{
+    width: 90px;
+    height: 50px;
+    background-color: lightgreen;
+    margin-left: 130px;
+    border-radius: 5px;
+}
+.h{
+    width: 90px;
+    height: 50px;
+    margin-left: 10px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.g:hover{
+    background-color: blue;
+
+}
+.h:hover{
+    background-color: lightgreen;
+
+}
+label{
+    width: 120px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
